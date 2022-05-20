@@ -1,9 +1,9 @@
 Makeenko Sofia
-#
+
 *Student*
 
 ![my photo](https://github.com/Sonyatko/CV1/blob/markdown-cv/photo.jpg)
-#
+
 Contact information:
 
 *Phone:+3752972406*
@@ -12,13 +12,13 @@ Contact information:
 
 *Telegram: @makenka_s*
 
-#
+
 Briefly About Myself
 
 My name is Sofia Makeenko. I am a student The University named after Peter Mironovich Masherov. At the moment I am studying in the 1st year of the Faculty of Mathematics and Information Technology in the specialty information resource management. 
 These six months I studied work in Excel, Microsoft Access, Visual Studio, learned how to work in the Windows and Linux command line.
 I consider myself a hardworking person, I learn quickly,very communication person.
-#
+
 Skills:
 
 * C++
@@ -30,7 +30,7 @@ Skills:
 * Excel,Microsoft Access
 
 * GitHub
-#
+
 Code example:
 ```bsl
 class triangle {
@@ -72,7 +72,7 @@ int main() {
   return 0;
 }
 ```
-#
+
 Languages:
 
 - Belarusian
@@ -80,5 +80,5 @@ Languages:
 - Russian
 
 - English
-#
+
 Follow my work on GitHub https://github.com/Sonyatko
