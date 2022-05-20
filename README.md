@@ -1,1 +1,1 @@
-# CV1
+# https://Sonyatko.github.io/CV1/cv
